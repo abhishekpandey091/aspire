@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233789321109",
+    "project_id": "aspire0912",
+    "storage_bucket": "aspire0912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233789321109:android:c6bec6993908e51d11d09c",
+        "android_client_info": {
+          "package_name": "com.airesumebuilderapp.aspire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233789321109-cr89dnnt30v2f5r2tjaf8gc8fdjtgttg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBmwHJYIo0UJsJXfMPg13a7P42J9K5aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233789321109-cr89dnnt30v2f5r2tjaf8gc8fdjtgttg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
